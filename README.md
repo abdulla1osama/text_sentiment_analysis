@@ -13,7 +13,8 @@ GPU Optimized: Designed to run on Google Colab/Kaggle GPUs for high-speed traini
 
 Ready-to-Use Inference: Includes a simple function where you can paste any review and get an instant "Positive" or "Negative" result.
 
-🛠️ Getting Started
+🛠️ Getting Started:
+
 To run this project, you don't need to install anything on your local machine. We use Google Colab to access free GPU power.
 
 1. Open the Notebook
@@ -31,6 +32,3 @@ Select T4 GPU (or any available GPU) and click Save.
 3. Install Dependencies
 Run the first cell in the notebook to install the necessary Hugging Face libraries:
 
-Bash
-
-pip install transformers datasets torch
