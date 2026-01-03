@@ -32,3 +32,23 @@ Select T4 GPU (or any available GPU) and click Save.
 3. Install Dependencies
 Run the first cell in the notebook to install the necessary Hugging Face libraries:
 
+Model Results:
+
+### Test Set Results
+
+| Metric    | Value |
+|----------|-------|
+| Accuracy | **93.40%** |
+| F1-Score | **0.9336** |
+
+### Classification Report
+
+| Class     | Precision | Recall | F1-Score | Support |
+|----------|-----------|--------|----------|---------|
+| Negative | 0.93 | 0.94 | 0.93 | 2500 |
+| Positive | 0.94 | 0.93 | 0.93 | 2500 |
+| Accuracy | — | — | 0.93 | 5000 |
+| Macro Avg | 0.93 | 0.93 | 0.93 | 5000 |
+| Weighted Avg | 0.93 | 0.93 | 0.93 | 5000 |
+
+
