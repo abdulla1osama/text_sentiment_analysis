@@ -1,7 +1,7 @@
-# Text Sentiment Analysis using BERT (Transformers)
+## Text Sentiment Analysis using BERT (Transformers)
 The following porject uses BERT to classify text sentiment whether negative or positive. The model is trained on IMDB dataset reviews with equally distributed negative and positive sentiment values.
 
-🚀 Key Features:
+## **🚀 Key Features:**
 
 BERT-Powered Intelligence: Uses Google’s BERT model to understand the actual meaning of reviews, not just keywords.
 
@@ -13,7 +13,7 @@ GPU Optimized: Designed to run on Google Colab/Kaggle GPUs for high-speed traini
 
 Ready-to-Use Inference: Includes a simple function where you can paste any review and get an instant "Positive" or "Negative" result.
 
-🛠️ Getting Started:
+## **🛠️ Getting Started:**
 
 To run this project, you don't need to install anything on your local machine. We use Google Colab to access free GPU power.
 
@@ -32,7 +32,7 @@ Select T4 GPU (or any available GPU) and click Save.
 3. Install Dependencies
 Run the first cell in the notebook to install the necessary Hugging Face libraries:
 
-Model Results:
+**Model Results:**
 
 ### Test Set Results
 
@@ -47,7 +47,6 @@ Model Results:
 |----------|-----------|--------|----------|---------|
 | Negative | 0.93 | 0.94 | 0.93 | 2500 |
 | Positive | 0.94 | 0.93 | 0.93 | 2500 |
-| Accuracy | — | — | 0.93 | 5000 |
 | Macro Avg | 0.93 | 0.93 | 0.93 | 5000 |
 | Weighted Avg | 0.93 | 0.93 | 0.93 | 5000 |
 
