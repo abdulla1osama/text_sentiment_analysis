@@ -11,7 +11,6 @@ The following porject uses BERT to classify text sentiment whether negative or p
 
 **GPU Optimized:** Designed to run on Google Colab/Kaggle GPUs for high-speed training (3-4 epochs in minutes).
 
-# **Ready-to-Use Inference: Includes a simple function where you can paste any review and get an instant "Positive" or "Negative" result.**
 
 ## **🛠️ Getting Started:**
 
@@ -50,4 +49,4 @@ Run the first cell in the notebook to install the necessary Hugging Face librari
 | Macro Avg | 0.93 | 0.93 | 0.93 | 5000 |
 | Weighted Avg | 0.93 | 0.93 | 0.93 | 5000 |
 
-
+**Ready-to-Use Inference: Includes a simple function where you can paste any review and get an instant "Positive" or "Negative" result.**
