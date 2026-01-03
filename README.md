@@ -3,15 +3,15 @@ The following porject uses BERT to classify text sentiment whether negative or p
 
 ## **🚀 Key Features:**
 
-BERT-Powered Intelligence: Uses Google’s BERT model to understand the actual meaning of reviews, not just keywords.
+**BERT-Powered Intelligence:** Uses Google’s BERT model to understand the actual meaning of reviews, not just keywords.
 
-Smart Tokenization: Uses sub-word splitting so the model never gets confused by "unknown" words or typos.
+**Smart Tokenization:** Uses sub-word splitting so the model never gets confused by "unknown" words or typos.
 
-Hugging Face Integration: Built with the industry-standard transformers library for fast and easy model loading.
+**Hugging Face Integration:** Built with the industry-standard transformers library for fast and easy model loading.
 
-GPU Optimized: Designed to run on Google Colab/Kaggle GPUs for high-speed training (3-4 epochs in minutes).
+**GPU Optimized:** Designed to run on Google Colab/Kaggle GPUs for high-speed training (3-4 epochs in minutes).
 
-Ready-to-Use Inference: Includes a simple function where you can paste any review and get an instant "Positive" or "Negative" result.
+# **Ready-to-Use Inference: Includes a simple function where you can paste any review and get an instant "Positive" or "Negative" result.**
 
 ## **🛠️ Getting Started:**
 
