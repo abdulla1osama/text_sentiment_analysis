@@ -1,7 +1,8 @@
 # Text Sentiment Analysis using BERT (Transformers)
 The following porject uses BERT to classify text sentiment whether negative or positive. The model is trained on IMDB dataset reviews with equally distributed negative and positive sentiment values.
 
-🚀 Key Features
+🚀 Key Features:
+
 BERT-Powered Intelligence: Uses Google’s BERT model to understand the actual meaning of reviews, not just keywords.
 
 Smart Tokenization: Uses sub-word splitting so the model never gets confused by "unknown" words or typos.
